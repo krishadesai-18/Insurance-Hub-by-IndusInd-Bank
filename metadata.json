@@ -1,0 +1,6 @@
+{
+  "name": "IndusProtect",
+  "description": "IndusInd Bank Insurance Hub - Manage, compare and renew policies, track claims, and receive AI-driven protection insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
